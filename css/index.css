@@ -192,94 +192,7 @@ body{
     position: relative;
 }
 
-.home-d1 a{
-    margin: 0;
-    padding: 0;
-    width:80px;
-    height: 85px;
-    background: url("../image/手机1.png");
-    position: absolute;
-    top: 0;
-    left: 0px;
-}
-.home-d1 a:hover{
-    background: url("../image/手机2.png");
-    position: absolute;
-    top: 0;
-    left: 0px;
-}
-.home-d2 a{
-    margin: 0;
-    padding: 0;
-    width:80px;
-    height: 85px;
-    background: url("../image/F码1.png");
-    position: absolute;
-    top: 0;
-    left: 80px;
-}
-.home-d2 a:hover{
-    background: url("../image/F码2.png");
-    position: absolute;
-    top: 0;
-    left: 80px;
-}
-.home-d3 a{
-    width:80px;
-    height: 85px;
-    background: url("../image/以旧换新1.png");
-    position: absolute;
-    top: 0;
-    left: 157px;
-}
-.home-d3 a:hover{
-    background: url("../image/以旧换新2.png");
-    position: absolute;
-    top: 0;
-    left: 157px;
-}
-.home-d4 a{
-    width:80px;
-    height: 85px;
-    background: url("../image/企业1.png");
-    position: absolute;
-    top: 85px;
-    left: 0;
-}
-.home-d4 a:hover{
-    background: url("../image/企业2.png");
-    position: absolute;
-    top: 85px;
-    left: 0;
-}
-.home-d5 a{
-    width:80px;
-    height: 85px;
-    background: url("../image/米粉1.png");
-    position: absolute;
-    top: 85px;
-    left: 80px;
-}
-.home-d5 a:hover{
-    background: url("../image/米粉2.png");
-    position: absolute;
-    top: 85px;
-    left:80px;
-}
-.home-d6 a{
-    width:80px;
-    height: 85px;
-    background: url("../image/话费1.png");
-    position: absolute;
-    top: 85px;
-    left: 157px;
-}
-.home-d6 a:hover{
-    background: url("../image/话费2.png");
-    position: absolute;
-    top: 85px;
-    left: 157px;
-}
+
 
 .home-channel-list2 a{
     width:316px;
@@ -333,8 +246,8 @@ body{
 .home-box .box-hd div div{
     float: right;
     width: 24px;
-    height: 16px;
-    margin-top: 20px;
+    /*height: 16px;*/
+    /*margin-top: 20px;*/
     margin-left:1px;
     text-align: center;
     border:1.33px solid #e0e0e0;
